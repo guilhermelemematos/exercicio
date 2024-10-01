@@ -2,7 +2,7 @@
 <html lang="pt-br">
 
 <head>
-    <title>Lista Cursos</title>
+    <title>Lista Alunos</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -47,7 +47,7 @@
                                             <div class="col-xl-12">
                                                 <div class="row">
                                                     <div class="col-xl-8 col-md-10 m-auto">
-                                                        <h2>Relação de Cursos</h2>
+                                                        <h2>Relação de Alunos</h2>
                                                         <table class="table">
                                                             <thead>
                                                                 <tr>
