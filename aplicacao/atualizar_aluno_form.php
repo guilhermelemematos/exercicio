@@ -47,7 +47,7 @@
                                             <div class="col-xl-12">
                                                 <div class="row">
                                                     <div class="col-xl-8 col-md-10 m-auto">
-                                                        <h2>Escolha um curso para ser atualizado</h2>
+                                                        <h2>Escolha um Aluno para ser atualizado</h2>
                                                         <table class="table">
                                                             <thead>
                                                                 <tr>
